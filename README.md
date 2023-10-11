@@ -1,5 +1,5 @@
 # CARDS Tool
-[-] Hacker Alok Tools 
+[-] Electra Op Tool
 # Features
 > [&] Fast & easy 
 
@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/Hackeralok119/ccvalidchecker
+git clone https://github.com/Hackeralok119/electraccvalidchecker
 ```
 ```
-cd ccvalidchecker
+cd electraccvalidchecker
 ```
 ```
 pip3 install -r requirements.txt
