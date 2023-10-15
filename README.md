@@ -20,7 +20,7 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/Hackeralok119/electraccvalidchecker
+git clone [https://github.com/ElectraGithub/electraccvalidchecker)
 ```
 ```
 cd electraccvalidchecker
